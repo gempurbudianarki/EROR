@@ -1,0 +1,141 @@
+[05-May-2025 20:17:41 Europe/Berlin] Koneksi database gagal: (1045) Access denied for user 'user_voting_app'@'localhost' (using password: YES)
+[05-May-2025 20:18:02 Europe/Berlin] Koneksi database gagal: (1045) Access denied for user 'user_voting_app'@'localhost' (using password: YES)
+[05-May-2025 20:24:31 Europe/Berlin] Koneksi database gagal: (1045) Access denied for user 'user_voting_app'@'localhost' (using password: YES)
+[05-May-2025 20:24:32 Europe/Berlin] Koneksi database gagal: (1045) Access denied for user 'user_voting_app'@'localhost' (using password: YES)
+[05-May-2025 20:24:32 Europe/Berlin] Koneksi database gagal: (1045) Access denied for user 'user_voting_app'@'localhost' (using password: YES)
+[05-May-2025 20:24:32 Europe/Berlin] Koneksi database gagal: (1045) Access denied for user 'user_voting_app'@'localhost' (using password: YES)
+[05-May-2025 20:24:33 Europe/Berlin] Koneksi database gagal: (1045) Access denied for user 'user_voting_app'@'localhost' (using password: YES)
+[07-May-2025 21:09:50 Europe/Berlin] Registrasi: Gagal prepare statement insert user (setelah API OK) - Unknown column 'foto_wajah_pendaftaran' in 'field list'
+[07-May-2025 22:01:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:14:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:14:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:17:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:17:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:18:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:27:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:27:24 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:30:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:30:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\xampp\htdocs\EROR\voting.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\EROR\voting.php on line 136
+[07-May-2025 22:33:27 Europe/Berlin] Voting Submit Transaksi Gagal: MySQL Prepare Error (INSERT voting): Unknown column 'foto_saat_vote' in 'field list'
+[07-May-2025 22:33:27 Europe/Berlin] Voting Submit: File foto 'vote_wajah_778_681bc3970a890.jpeg' dihapus karena transaksi DB gagal.
+[07-May-2025 22:33:55 Europe/Berlin] Voting Submit Transaksi Gagal: MySQL Prepare Error (INSERT voting): Unknown column 'foto_saat_vote' in 'field list'
+[07-May-2025 22:33:55 Europe/Berlin] Voting Submit: File foto 'vote_wajah_778_681bc3b35837d.jpeg' dihapus karena transaksi DB gagal.
+[07-May-2025 22:45:57 Europe/Berlin] Rekaman View: File foto saat vote hilang - C:\xampp\htdocs\EROR/uploads/foto_saat_vote/vote_751_681b083e01211.webm
+[07-May-2025 22:45:57 Europe/Berlin] Rekaman View: File foto saat vote hilang - C:\xampp\htdocs\EROR/uploads/foto_saat_vote/vote_733_681a66a05d19d.webm
+[07-May-2025 22:45:57 Europe/Berlin] Rekaman View: File foto saat vote hilang - C:\xampp\htdocs\EROR/uploads/foto_saat_vote/vote_576_681a3b7e3f17f.webm
+[07-May-2025 22:45:57 Europe/Berlin] Rekaman View: File foto saat vote hilang - C:\xampp\htdocs\EROR/uploads/foto_saat_vote/vote_429_68181c3118071.webm
+[07-May-2025 22:45:57 Europe/Berlin] Rekaman View: File foto saat vote hilang - C:\xampp\htdocs\EROR/uploads/foto_saat_vote/vote_270_6818181166f9a.webm
+[07-May-2025 22:46:48 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kdt_20250506214313_681a6651466a6.png untuk DB entry: kdt_20250506214313_681a6651466a6.png
+[07-May-2025 22:46:48 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[07-May-2025 22:46:48 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[07-May-2025 22:46:48 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[07-May-2025 22:46:53 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[07-May-2025 22:46:53 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[07-May-2025 22:46:53 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[07-May-2025 22:47:12 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[07-May-2025 22:47:12 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[07-May-2025 22:47:12 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[07-May-2025 22:50:56 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[07-May-2025 22:50:56 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[07-May-2025 22:50:56 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[07-May-2025 22:51:36 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[07-May-2025 22:51:36 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[07-May-2025 22:51:36 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[07-May-2025 23:20:22 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[07-May-2025 23:20:22 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[07-May-2025 23:20:22 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[08-May-2025 07:51:57 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[08-May-2025 07:51:57 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 07:51:57 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[08-May-2025 07:55:56 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_681819593f9090.95946740_Screenshot20250505083416.png untuk DB entry: kandidat_681819593f9090.95946740_Screenshot20250505083416.png
+[08-May-2025 07:55:56 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 07:55:56 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[08-May-2025 07:56:04 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 07:56:04 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[08-May-2025 07:57:02 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png untuk DB entry: kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 07:57:02 Europe/Berlin] Foto kandidat tidak ditemukan di server: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png untuk DB entry: kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[08-May-2025 08:00:58 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:00:58 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[08-May-2025 08:00:58 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:00:58 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6817d973b29c54.64414917_Screenshot20250502210757.png
+[08-May-2025 08:01:49 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:01:49 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:04 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:04 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:08 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:08 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:12 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:12 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:23 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:02:24 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:06:20 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[08-May-2025 08:06:20 Europe/Berlin] Foto kdt list hilang: C:\xampp\htdocs\EROR/uploads/kandidat_foto/kandidat_6818194cd143e1.21607974_Screenshot20250505083416.png
+[11-May-2025 22:12:52 Europe/Berlin] Registrasi: Pesan error dari API Python /detect_and_store_face - Tidak ada wajah yang terdeteksi di foto. Pastikan wajah Anda terlihat jelas, menghadap kamera, dan pencahayaan cukup.
+[11-May-2025 22:17:26 Europe/Berlin] Registrasi: Pesan error dari API Python /detect_and_store_face - Tidak ada wajah yang terdeteksi di foto. Pastikan wajah Anda terlihat jelas, menghadap kamera, dan pencahayaan cukup.
+[11-May-2025 22:18:43 Europe/Berlin] Registrasi: Pesan error dari API Python /detect_and_store_face - Tidak ada wajah yang terdeteksi di foto. Pastikan wajah Anda terlihat jelas, menghadap kamera, dan pencahayaan cukup.
+[11-May-2025 22:34:07 Europe/Berlin] Registrasi: Error dari API Python saat submit PHP - Gambar terlihat buram (variance: 51.10). Mohon ambil ulang dengan fokus yang lebih baik.
+[11-May-2025 22:44:52 Europe/Berlin] Registrasi: Error dari API Python saat submit PHP - Tidak ada wajah yang terdeteksi di foto. Pastikan wajah Anda terlihat jelas, menghadap kamera, pencahayaan cukup, dan tidak terhalang (misalnya oleh rambut atau tangan).
+[11-May-2025 22:48:30 Europe/Berlin] Registrasi: cURL Error #7 ke Python API (/detect_and_store_face): Failed to connect to localhost port 5000: Connection refused
+[11-May-2025 22:48:30 Europe/Berlin] Registrasi: Error dari API Python saat submit PHP - Tidak dapat terhubung ke layanan verifikasi wajah saat ini. Error Code: C7
+[11-May-2025 22:55:48 Europe/Berlin] Registrasi: Error dari API Python saat submit PHP - Data input tidak lengkap (membutuhkan data frame dan username).
+[11-May-2025 22:57:05 Europe/Berlin] Registrasi: Error dari API Python saat submit PHP - Data input tidak lengkap (membutuhkan data frame dan username).
+[12-May-2025 19:44:03 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: . Pose Kiri (awal): ..., Pose Kanan (awal): ...
+[12-May-2025 19:53:18 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: . Pose Kiri (awal): ..., Pose Kanan (awal): ...
+[12-May-2025 19:55:01 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: . Pose Kiri (awal): ..., Pose Kanan (awal): ...
+[12-May-2025 20:10:55 Europe/Berlin] Registrasi (PHP): Mengirim data ke API Python untuk validasi akhir. Username: 09870987
+[12-May-2025 20:10:55 Europe/Berlin] Registrasi (PHP): Error dari API Python - Data input tidak lengkap (membutuhkan data frame dan username).
+[12-May-2025 20:11:11 Europe/Berlin] Registrasi (PHP): Mengirim data ke API Python untuk validasi akhir. Username: 09870987
+[12-May-2025 20:11:11 Europe/Berlin] Registrasi (PHP): Error dari API Python - Data input tidak lengkap (membutuhkan data frame dan username).
+[12-May-2025 20:13:06 Europe/Berlin] Registrasi (PHP): Mengirim data ke API Python untuk validasi akhir. Username: 09870987
+[12-May-2025 20:13:07 Europe/Berlin] Registrasi (PHP): Error dari API Python - Data input tidak lengkap (membutuhkan data frame dan username).
+[12-May-2025 20:16:38 Europe/Berlin] Registrasi (PHP): Mengirim data ke API Python untuk validasi akhir. Username: 09870987
+[12-May-2025 20:26:19 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: . Pose Kiri (awal): ..., Pose Kanan (awal): ...
+[12-May-2025 20:30:22 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: . Pose Kiri (awal): ..., Pose Kanan (awal): ...
+[12-May-2025 21:03:54 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: . Pose Kiri (awal): ..., Pose Kanan (awal): ...
+[12-May-2025 21:08:46 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: . Foto Senyum: .
+[12-May-2025 21:17:59 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_09870987_7b6bb9d7.jpg. Foto Senyum: smile_09870987_55631c31.jpg.
+[12-May-2025 21:21:06 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_09870987_a708342e.jpg. Foto Senyum: smile_09870987_f87e68b5.jpg.
+[12-May-2025 22:47:36 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_767676_48b4647f.jpg. Foto Senyum: smile_teeth_767676_8e9d692a.jpg.
+[12-May-2025 22:48:36 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_767676_0fc0e387.jpg. Foto Senyum: smile_teeth_767676_bcb60a7e.jpg.
+[13-May-2025 00:00:19 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_121212_1fcaf552.jpg. Foto Senyum: smile_teeth_121212_c4c641a7.jpg.
+[13-May-2025 13:19:43 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_iqbal_52b847a8.jpg. Foto Senyum: smile_teeth_iqbal_fdf70b41.jpg.
+[13-May-2025 13:21:16 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_iqbal_e432be3b.jpg. Foto Senyum: smile_teeth_iqbal_1dcce8d7.jpg.
+[13-May-2025 17:28:06 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_24210104_661a4e12.jpg. Foto Senyum: smile_teeth_24210104_6aa7f372.jpg.
+[13-May-2025 17:32:35 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_24210104_661a4e12.jpg. Foto Senyum: smile_teeth_24210104_6aa7f372.jpg.
+[13-May-2025 17:40:57 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_24210104_661a4e12.jpg. Foto Senyum: smile_teeth_24210104_6aa7f372.jpg.
+[13-May-2025 17:44:15 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_24210104_f1ce2d10.jpg. Foto Senyum: smile_teeth_24210104_7c77b5d0.jpg.
+[13-May-2025 17:56:33 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_55555555_62feed71.jpg. Foto Senyum: smile_teeth_55555555_04579ca0.jpg.
+[14-May-2025 07:47:57 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_khairuman18_15705a00.jpg. Foto Senyum: smile_teeth_khairuman18_3ba40116.jpg.
+[14-May-2025 07:49:13 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_khairuman18_58fd2922.jpg. Foto Senyum: smile_teeth_khairuman18_d8bf9a5a.jpg.
+[14-May-2025 07:50:13 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_khairuman18_ec52f844.jpg. Foto Senyum: smile_teeth_khairuman18_df7dcb8c.jpg.
+[14-May-2025 07:54:08 Europe/Berlin] Registrasi (PHP): Data diterima. Foto Utama: main_898989_b5918798.jpg. Foto Senyum: smile_teeth_898989_a03ad2a4.jpg.
